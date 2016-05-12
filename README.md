@@ -1,6 +1,8 @@
+Isn't quite ready yet. See changelog for more.
+
 # Jeet
 
-Based on [Jeet](http://jeet.gs), an is the most advanced, yet intuitive, grid system on the market today.
+Based on [Jeet](http://jeet.gs), the most advanced, yet intuitive, grid system on the market today.
 
 By making use of the power of pre-processors, we can now pass real fractions (or float numbers) as context that generates a percentage based width and gutter for grids. We're able to do this while maintaining a consistently sized infinitely nestable gutter.
 
